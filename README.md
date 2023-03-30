@@ -1,6 +1,7 @@
+![logo](https://github.com/anuj-rishu/anuj-rishu/blob/main/ANUJ%20TI.png)
 <h1 align="center">Hey! 👋, I'm Anuj Tiwari</h1>
 <h3 align="center">An enthusiastic Web Developer</h3>
-<img align="right"alt="Coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://twitter.com/anuj_rishu" target="blank"><img src="https://img.shields.io/twitter/follow/anuj_rishu?logo=twitter&style=for-the-badge" alt="anuj_rishu" /></a> </p>
 
