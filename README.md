@@ -1,4 +1,4 @@
-# 💻 About Me:
+# 🖋️ About Me:
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a graphic design master<br>
 
 
