@@ -1,3 +1,4 @@
+<body>
 <div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -5,7 +6,8 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFirckLdes&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFirckLdes&#x2F;watch?utm_content=DAFirckLdes&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">White Minimalist Corporate Personal Profile LinkedIn Banner</a> by Anuj  
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFirckLdes&#x2F;watch?utm_content=DAFirckLdes&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">White Minimalist Corporate Personal Profile LinkedIn Banner</a> by Anuj 
+ </body>
 # 🖋️ About Me:
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA PRO(SRMIST) GRAPHIC DESIGNER <br>
 
