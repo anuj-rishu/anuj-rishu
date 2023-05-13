@@ -1,5 +1,4 @@
 
-https://github.com/anuj-rishu/anuj-rishu/assets/115218200/3085d657-8c23-4f9e-8d2a-85d8c3c166e0)
 # 🖋️ About Me:
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA PRO(SRMIST) GRAPHIC DESIGNER <br>
 
