@@ -1,4 +1,4 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/2127dee6-b7fd-4b84-bfe7-de041d4c3cb5)
+![White Minimalist Corporate Personal Profile LinkedIn Banner-2](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/619cf276-be87-4735-8c94-a255ad7d1cc5)
 
 # 🖋️ About Me:
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA PRO(SRMIST) GRAPHIC DESIGNER <br>
