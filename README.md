@@ -5,7 +5,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFirckLdes&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFirckLdes&#x2F;watch?utm_content=DAFirckLdes&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">White Minimalist Corporate Personal 
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFirckLdes&#x2F;watch?utm_content=DAFirckLdes&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">White Minimalist Corporate Personal Profile LinkedIn Banner</a> by Anuj  
 # 🖋️ About Me:
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA PRO(SRMIST) GRAPHIC DESIGNER <br>
 
