@@ -3,7 +3,8 @@
 # 🖋️ About Me:
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA PRO(SRMIST) GRAPHIC DESIGNER <br>
 
-[EMAIL ID](at6272@srmist.edu.in?subject=[From GitHub]%20Source%20Han%20Sans)
+[anuj tiwari](mailto:at6272@srmist.edu.in?subject=[GitHub]%20Source%20Han%20Sans)
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
