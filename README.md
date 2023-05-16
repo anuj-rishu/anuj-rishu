@@ -10,9 +10,11 @@ I am a first-year student at SRM Institute of Science and Technology, where I am
  
  ## 📩 Lets connect:
 <a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="[https://img.shields.io/badge/gmail-%23DD0031.svg](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/a0e8b91e-b890-4f24-9419-49d91ee43fc8)?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-![Outlook-Logo-2012-2019](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/a0e8b91e-b890-4f24-9419-49d91ee43fc8)
+<a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://github.com/anuj-rishu/anuj-rishu/assets/115218200/a0e8b91e-b890-4f24-9419-49d91ee43fc8)
+?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
 
 
 # 💻 Tech Stack:
