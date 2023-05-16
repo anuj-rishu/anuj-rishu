@@ -4,7 +4,7 @@
 I am a first-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA PRO(SRMIST) GRAPHIC DESIGNER <br>
 
 [E-MAIL ID](mailto:at6272@srmist.edu.in?subject=[From%GitHub])
-<a href="mailto:at6272@srmist.edu.in?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 
