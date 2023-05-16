@@ -6,8 +6,9 @@ I am a first-year student at SRM Institute of Science and Technology, where I am
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-rishu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anuj_rishu)
- <br>
- <br>
+ 
+ 
+ ## 📩 Lets connect:
 <a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
