@@ -11,7 +11,7 @@ I am a first-year student at SRM Institute of Science and Technology, where I am
  ## 📩 Lets connect:
 <a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="mailto:anujtiwari4454@outlook.com?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=outlook&logoColor=white"/></a>
+<a href="mailto:anujtiwari4454@outlook.com?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
 # 💻 Tech Stack:
