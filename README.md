@@ -1,5 +1,5 @@
 
-![Black Modern Geometric Personal LinkedIn Banner](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/98a0eedc-3f29-4f5b-8fde-a1dc2358f918)
+![Black Modern Geometric Personal LinkedIn Banner](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/077fe1e2-9555-47e6-8859-2f9173e9b59e)
 
 
 # 🖋️ About Me:
