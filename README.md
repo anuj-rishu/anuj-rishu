@@ -3,7 +3,7 @@
 
 
 # 🖋️ Me:
-Web wizard on a daily quest to outwit bugs. GitHub is my comedy club for code. Let's laugh, learn, and code on! <br>
+Striving web virtuoso sculpting success in code. Elevating my career daily. GitHub is my canvas; each commit, a masterpiece. <br>
 
 
 ## 🌐 Socials:
