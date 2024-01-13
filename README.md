@@ -2,7 +2,7 @@
 ![Black Modern Geometric Personal LinkedIn Banner](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/077fe1e2-9555-47e6-8859-2f9173e9b59e)
 
 
-# 🖋️ About Me:
+# 🖋️ Me:
 Web wizard on a daily quest to outwit bugs. GitHub is my comedy club for code. Let's laugh, learn, and code on! <br>
 
 
