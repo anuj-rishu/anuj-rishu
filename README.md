@@ -3,7 +3,7 @@
 
 
 # 🖋️ About Me:
-I am a 2nd-year student at SRM Institute of Science and Technology, where I am pursuing a Bachelor of Science in Computer Science. I am an eager programmer with C, C++, and full-stack web development experience. And a CANVA(SRMIST) GRAPHIC DESIGNER <br>
+Web wizard on a daily quest to outwit bugs. GitHub is my comedy club for code. Let's laugh, learn, and code on! <br>
 
 
 ## 🌐 Socials:
