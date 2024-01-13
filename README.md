@@ -2,8 +2,8 @@
 ![Black Modern Geometric Personal LinkedIn Banner](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/077fe1e2-9555-47e6-8859-2f9173e9b59e)
 
 
-# 🖋️ Me:
-Striving web virtuoso sculpting success in code. Elevating my career daily. GitHub is my canvas; each commit, a masterpiece. <br>
+# Me:
+Web sorcerer conjuring code spells. GitHub's my magic potion shelf—where bugs tremble and laughter echoes. Ready for a hilarious code journey? <br>
 
 
 ## 🌐 Socials:
