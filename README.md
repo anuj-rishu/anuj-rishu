@@ -1,7 +1,4 @@
 
-![Black Modern Geometric Personal LinkedIn Banner](https://github.com/anuj-rishu/anuj-rishu/assets/115218200/077fe1e2-9555-47e6-8859-2f9173e9b59e)
-
-
 # Me:
 Welcome to my GitHub! I'm Anuj Tiwari, a 2nd-year IT student with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !! <br>
 
