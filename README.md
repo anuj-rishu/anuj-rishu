@@ -3,7 +3,7 @@
 
 
 # Me:
-Web sorcerer conjuring code spells. GitHub's my magic potion shelf—where bugs tremble and laughter echoes. Ready for a hilarious code journey... !! <br>
+Welcome to my GitHub! I'm Anuj Tiwari, a 2nd-year IT student with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !! <br>
 
 
 ## 🌐 Socials:
