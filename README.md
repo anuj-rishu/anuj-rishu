@@ -1,17 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=435&lines=Anuj+Rishu+Tiwari;Back-end+developers)](https://git.io/typing-svg)
-
-
-# Me:
-Welcome to my GitHub! I'm Anuj Tiwari, a with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&random=false&width=435&lines=Anuj+Rishu++Tiwari+%F0%9F%91%8B;IT+Student;Back-end+developer)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-rishu)       [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_rishu)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuj_rishu) 
  
-
-
-
-
 
  ## 📩 Lets connect:
 <a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
