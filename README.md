@@ -1,22 +1,6 @@
 
 # Me:
-Welcome to my GitHub! I'm Anuj Tiwari, a <span id="typing"></span> with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !!
-
-<style>
-#typing::after {
-  content: "Anuj Tiwari, a 2nd-year IT student ";
-  animation: typing 5s steps(40, end);
-  overflow: hidden;
-  display: inline-block;
-  white-space: nowrap;
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-}
-</style>
+Welcome to my GitHub! I'm Anuj Tiwari, a with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !!
 
 
 ## 🌐 Socials:
