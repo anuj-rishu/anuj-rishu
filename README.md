@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm Anuj Tiwari, a 2nd-year IT student with a focus on bac
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-rishu) 
-
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuj_rishu) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-rishu)      [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuj_rishu) 
  
+
+
  ## 📩 Lets connect:
 <a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
