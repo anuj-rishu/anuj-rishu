@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B)](https://git.io/typing-svg)
 <br>
 
-
-#Me
+# Me:
 
 Welcome to my GitHub! I'm Anuj Tiwari, a 2nd-year IT student with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !! <br>
 
