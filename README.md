@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=435&lines=Anuj+Rishu+Tiwari;Back-end+developers)](https://git.io/typing-svg)
+
 
 # Me:
 Welcome to my GitHub! I'm Anuj Tiwari, a with a focus on backend development. Explore my projects showcasing database management, server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development... !!
