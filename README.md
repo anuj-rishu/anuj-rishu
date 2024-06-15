@@ -10,6 +10,9 @@ Welcome to my GitHub! I'm Anuj Tiwari, 2nd-year IT student with a focus on backe
  
 
  ## 📩 Lets connect:
+
+[![Anuj_Rishu_Contact](https://img.shields.io/badge/Anuj_Rishu_Contact-000?style=for-the-badge&=ko-fi&logoColor=white)](https://anuj-rishu-link-tree.vercel.app/contact)
+ 
 <a href="mailto:at6272@srmist.edu.in?subject=[From%GitHub])"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-rishu)     
