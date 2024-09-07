@@ -26,6 +26,9 @@ Welcome to my GitHub! I'm Anuj Tiwari, 3rd-year IT student with a focus on backe
 ![](https://github-readme-stats.vercel.app/api?username=anuj-rishu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anuj-rishu&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-rishu&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anuj-rishu&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
