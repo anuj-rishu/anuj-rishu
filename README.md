@@ -3,7 +3,7 @@
 
 # Me:
 
-Welcome to my GitHub! I'm Anuj Tiwari, 3rd-year IT student with a focus on backend development. Explore my projects showcasing database management server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development. !! <br>
+Welcome to my GitHub! I'm Anuj Tiwari, 3rd-year IT student with a focus on backend development. Explore my projects showcasing database management server-side scripting, and more. Join me on my journey as I hone my skills and contribute to the world of web development. <br>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-rishu)       [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_rishu)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuj_rishu) 
