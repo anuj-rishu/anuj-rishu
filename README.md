@@ -29,6 +29,6 @@ Welcome to my GitHub! I'm Anuj Tiwari, 3rd-year IT student with a focus on backe
 ![](https://github-contributor-stats.vercel.app/api?username=anuj-rishu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anuj-rishu&icon=1&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-rishu&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-rishu" /> </p>
 
 
