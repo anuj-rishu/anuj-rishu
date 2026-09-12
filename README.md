@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Backend Developer | Java & Spring Boot | Building Scalable APIs & Real-Time Systems | Exploring Cloud, AI & Distributed Systems<br>
 
 
